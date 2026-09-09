@@ -1,0 +1,46 @@
+question,topic,crop,agro_zone,document_id,reference_answer,QuestionId
+Weevils in stored maize without chemicals?,post_harvest,maize,semi_arid,doc_pos_001,Dry to twelve to thirteen percent and seal in hermetic bags.,1
+Insurance paid but my field still failed — why?,climate_adaptation,general,semi_arid,doc_cli_003,Basis risk means index payouts may not match individual field losses.,2
+Which cover crop helps between maize seasons?,soil_health,general,sub_humid,doc_soi_002,Mucuna or lablab reduce erosion and suppress weeds.,3
+Maize stalks lodging before harvest — nutrient angle?,fertiliser,maize,sub_humid,doc_fer_001,Ensure balanced NPK including potassium for stalk strength.,4
+What are signs of bean rust?,crop_diseases,beans,highland,doc_dis_002,Reddish-brown pustules on leaf undersides in cool humid weather.,5
+Can I apply urea on dry soil?,fertiliser,maize,sub_humid,doc_fer_001,Only if rain or irrigation is imminent; otherwise uptake is poor.,6
+Cassava chips spoiling in the shed.,post_harvest,cassava,sub_humid,doc_pos_003,Dry chips below fourteen percent moisture before bagging off the floor.,7
+What is basis risk in weather-index insurance?,climate_adaptation,general,semi_arid,doc_cli_003,Payouts may not match your individual field losses.,8
+My soil test shows pH 5.2 — what should I do?,soil_health,general,highland,doc_soi_001,Apply agricultural lime based on the test and incorporate before planting.,9
+How do I know compost is ready to use?,soil_health,general,semi_arid,doc_soi_003,"It should be dark, crumbly, and free of undecomposed stalks or foul odour.",10
+Target moisture for cassava chips?,post_harvest,cassava,sub_humid,doc_pos_003,Below fourteen percent with uniform slices and regular turning while drying.,11
+How does night corralling help cattle in tsetse areas?,livestock,livestock,sub_humid,doc_liv_003,Smoke-treated pens reduce fly exposure when combined with cleared kraal bush.,12
+What damage does fall armyworm cause in maize?,pests,maize,semi_arid,doc_pes_001,Larvae feed in the whorl leaving ragged window-pane damage and frass.,13
+Holes and sawdust in my maize whorl — what pest?,pests,maize,semi_arid,doc_pes_001,Fall armyworm whorl feeding; scout weekly and treat if over ten percent infested.,14
+Flies bothering cattle at the river evening.,livestock,livestock,sub_humid,doc_liv_003,Rotate grazing from riverine bush and use smoke-treated night kraals.,15
+How can I collect roof rain for irrigation?,water_management,general,semi_arid,doc_wat_001,Channel roof runoff into screened tanks with first-flush diverters.,16
+How do I lower aflatoxin in groundnuts?,post_harvest,groundnuts,semi_arid,doc_pos_002,Dry quickly on raised mats and remove mouldy kernels before storage.,17
+How should village chickens be vaccinated?,livestock,livestock,sub_humid,doc_liv_001,Follow extension eye-drop or drinking-water schedules on time.,18
+What spreads cassava mosaic?,crop_diseases,cassava,sub_humid,doc_dis_003,Whiteflies spread the virus; infected cuttings also carry it.,19
+Why are my maize lower leaves turning yellow but the midrib stays green?,crop_diseases,maize,sub_humid,doc_dis_001,Likely nitrogen deficiency — yellowing starts on older leaves while the midrib stays greener.,20
+Why does low pH hurt legumes?,soil_health,general,highland,doc_soi_001,Acidity binds phosphorus and limits nodulation below about pH 5.5.,21
+How should I terminate cover crops?,soil_health,general,sub_humid,doc_soi_002,"Before hard seed set, leaving residues as surface mulch.",22
+What moisture is safe for sealing maize in hermetic bags?,post_harvest,maize,semi_arid,doc_pos_001,Dry to about twelve to thirteen percent moisture before sealing.,23
+What are contour bunds for?,water_management,general,highland,doc_wat_003,They slow runoff and increase infiltration on slopes.,24
+Erosion on my hillside maize plot.,water_management,general,highland,doc_wat_003,Build contour bunds with grass strips and repair after storms.,25
+Poor bean pods despite flowers — micronutrient?,fertiliser,beans,highland,doc_fer_003,Check boron deficiency; foliar boron only at recommended rates.,26
+Drip emitters clogging — prevention?,water_management,general,sub_humid,doc_wat_002,Filter water and flush lines weekly especially in sandy soils.,27
+Rains started late — which maize variety strategy?,climate_adaptation,maize,semi_arid,doc_cli_001,Use short-season drought-tolerant varieties aligned to rainfall onset.,28
+Where should I place phosphorus for maize?,fertiliser,maize,sub_humid,doc_fer_001,Near the planting hole while top-dressing nitrogen at knee height.,29
+Yellow maize from the ground up — midrib still green. Deficiency or disease?,crop_diseases,maize,sub_humid,doc_dis_001,Uniform yellowing on older leaves with greener midribs suggests nitrogen deficiency.,30
+What is deadheart in sorghum?,pests,sorghum,semi_arid,doc_pes_002,Stem borer tunneling kills the growing point in seedlings.,31
+Cassava leaves look mosaic and twisted — cause?,crop_diseases,cassava,sub_humid,doc_dis_003,Cassava mosaic spread by whiteflies; use certified cuttings and rogue infected plants.,32
+How do I prevent cassava mosaic on a new plot?,crop_diseases,cassava,sub_humid,doc_dis_003,Plant certified virus-free cuttings and rogue infected plants early.,33
+Aphids are curling my nursery leaves — first steps?,pests,general,highland,doc_pes_003,"Monitor daily, use reflective mulch, and wash colonies with soapy water.",34
+Symptoms of Newcastle disease in chickens?,livestock,livestock,sub_humid,doc_liv_001,"Respiratory distress, greenish diarrhoea, and sudden mortality.",35
+How do I reduce heat stress in dairy cows?,climate_adaptation,livestock,semi_arid,doc_cli_002,"Provide shade, night grazing, and clean water; avoid afternoon work.",36
+When should I treat fall armyworm?,pests,maize,semi_arid,doc_pes_001,When more than ten percent of plants are infested at early vegetative stage.,37
+Why mulch with drip irrigation?,water_management,general,sub_humid,doc_wat_002,Mulch keeps soil moisture stable and cuts evaporation between cycles.,38
+Beans have hollow stems — nutrient issue?,fertiliser,beans,highland,doc_fer_003,Possible boron deficiency on sandy acidic soils; use foliar boron at safe rates.,39
+Sticky soot on seedlings in the nursery.,pests,general,highland,doc_pes_003,Aphid honeydew leading to sooty mould; wash aphids and protect natural enemies.,40
+Cows panting in afternoon sun — management?,climate_adaptation,livestock,semi_arid,doc_cli_002,"Shade, water ad libitum, and avoid working animals in peak heat.",41
+How do I make hay for the dry season?,livestock,livestock,semi_arid,doc_liv_002,"Harvest forage at boot stage, sun-dry on racks, and store under cover.",42
+Weeds between seasons — cover crop option?,soil_health,general,sub_humid,doc_soi_002,Mucuna or lablab as cover crops terminated before hard seed.,43
+How do I reduce bean rust spread?,crop_diseases,beans,highland,doc_dis_002,"Use clean seed, avoid dusk overhead irrigation, and remove infected debris.",44
+Sudden chicken deaths with green droppings.,livestock,livestock,sub_humid,doc_liv_001,Suspect Newcastle disease; vaccinate on schedule and isolate sick birds.,45

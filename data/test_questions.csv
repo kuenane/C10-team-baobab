@@ -1,0 +1,13 @@
+QuestionId,question,topic,crop,agro_zone
+1001,How should I apply nitrogen to leaching-prone maize fields?,crop_diseases,maize,sub_humid
+1002,Grass gone in August — feed strategy?,livestock,livestock,semi_arid
+1003,Red spots under my bean leaves during the rains.,crop_diseases,beans,highland
+1004,Fresh cow dung on vegetable beds — safe?,fertiliser,general,sub_humid
+1005,How much compost per hectare?,fertiliser,general,sub_humid
+1006,How can I lower stem borer pressure?,pests,sorghum,semi_arid
+1007,Legumes not nodulating on my acidic plot.,soil_health,general,highland
+1008,Sorghum seedlings dying at the growing point.,pests,sorghum,semi_arid
+1009,Compost pile smells rotten — fix?,soil_health,general,semi_arid
+1010,When should I plant maize in a shortening rainy season?,climate_adaptation,maize,semi_arid
+1011,Mouldy groundnuts after harvest — risk?,post_harvest,groundnuts,semi_arid
+1012,No river nearby — capture rain from my house roof?,water_management,general,semi_arid
